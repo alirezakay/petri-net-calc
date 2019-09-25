@@ -34,3 +34,7 @@ There is a **complete documentation** in *Persian* in the file named: **descript
 - **IncidentMatrix.java**:  (Interface implemented in Petrinet class)
 - **Matrix.java**:  (Matrix calculations)
 - **Petrinet.txt**:  (Raw Petrinet example data)
+
+---
+
+![Petrinet Example](./mat1.gif)
