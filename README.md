@@ -23,9 +23,9 @@ F={(p5,t1),(t1,p1),(t1,p2),(p1,t2),(p2,t3),(t2,p3),(t2,p4),(t3,p4),(p3,t4),(p4,t
 This project is codded in **VScode** by using **Java**. \
 There are pretty good comments in the codes.
 
-If you don't know about Petri net Incident Matrices, I suggest you take a look [here](https://www.techfak.uni-bielefeld.de/~mchen/BioPNML/Intro/MRPN.html) at first.
+If you don't know about Petri net Incident Matrices, I highly suggest you to take a look at [here](https://www.techfak.uni-bielefeld.de/~mchen/BioPNML/Intro/MRPN.html) at first.
 
-There is a **complete documentation** in *Persian* in the file named: **description.pdf**
+There is a **complete documentation** in *Persian* on the file, named: **description.pdf**
 
 ### Hierarchy Of Files
 
